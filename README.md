@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [**Alexander Lilaj**](https://github.com/AlexanderLilaj)
 
-- 📫 How to reach me **alexlilaj77'2gmail.com**
+- 📫 How to reach me [**alexlilaj77'2gmail.com**](alexlilaj77'2gmail.com)
 
 - 📄 Know about my experiences: [**Resume**]( )
 - ⚡ Fun fact **I love dogs**
