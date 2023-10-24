@@ -3,14 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlexanderLilaj&label=Profile%20views&color=0e75b6&style=flat" alt="joseeeortizz" /> </p>
 
-- 🌱 I’m currently learning **Google Cybersecurity Professional Certificate**
+- 🌱 I’m currently learning **Computer Science**
 
-- 👨‍💻 All of my projects are available at [**www.joseeeortizz.com**](https://joseeeortizz.github.io/#)
+- 👨‍💻 All of my projects are available at [**Alexander Lilaj**](https://github.com/AlexanderLilaj)
 
-- 📫 How to reach me **joseortizv.nyc@gmail.com**
+- 📫 How to reach me **alexlilaj77'2gmail.com**
 
-- 📄 Know about my experiences: [**Resume**](https://joseeeortizz.com/Resume.html)
-- ⚡ Fun fact **I love timepieces & travelling.**
+- 📄 Know about my experiences: [**Resume**]( )
+- ⚡ Fun fact **I love dogs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
